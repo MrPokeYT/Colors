@@ -1,0 +1,21 @@
+{
+  "name": "colors",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "9.37.0",
+    "prettier": "3.6.2",
+    "tsup": "8.5.0",
+    "typescript": "5.9.3"
+  }
+}
